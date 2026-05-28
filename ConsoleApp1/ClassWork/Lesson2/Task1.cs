@@ -1,7 +1,7 @@
 using System;
 using System.Linq;
 
-static class Lesson2Task1
+static class Task1
 {
     public static void Run()
     {

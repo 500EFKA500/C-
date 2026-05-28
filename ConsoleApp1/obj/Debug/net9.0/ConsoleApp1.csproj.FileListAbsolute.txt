@@ -30,3 +30,7 @@ C:\Users\user\RiderProjects\C#\ConsoleApp1\obj\Debug\net9.0\refint\ConsoleApp1.d
 C:\Users\user\RiderProjects\C#\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.pdb
 C:\Users\user\RiderProjects\C#\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.genruntimeconfig.cache
 C:\Users\user\RiderProjects\C#\ConsoleApp1\obj\Debug\net9.0\ref\ConsoleApp1.dll
+C:\Users\user\RiderProjects\C#\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.sourcelink.json
+C:\Users\user\RiderProjects\C#\ConsoleApp1\bin\Debug\net9.0\HomeWork\home5\file1.txt
+C:\Users\user\RiderProjects\C#\ConsoleApp1\bin\Debug\net9.0\HomeWork\home5\file2.txt
+C:\Users\user\RiderProjects\C#\ConsoleApp1\bin\Debug\net9.0\HomeWork\home5\file3.txt
