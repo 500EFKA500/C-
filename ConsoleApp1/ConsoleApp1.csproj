@@ -13,4 +13,8 @@
         </None>
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="ClassWork\lesson3\" />
+    </ItemGroup>
+
 </Project>

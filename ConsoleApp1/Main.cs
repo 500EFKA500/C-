@@ -107,6 +107,7 @@ class MainProgram
             Console.WriteLine("Классная работа");
             Console.WriteLine("1 - Урок 1");
             Console.WriteLine("2 - Урок 2");
+            Console.WriteLine("3 - Урок 3");
             Console.WriteLine("0 - Назад");
             Console.Write("Выберите урок: ");
 
@@ -120,6 +121,10 @@ class MainProgram
 
                 case "2":
                     Lesson2.Run();
+                    break;
+
+                case "3":
+                    Lesson3.Run();
                     break;
 
                 case "0":

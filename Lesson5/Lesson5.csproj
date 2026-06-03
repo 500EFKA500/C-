@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>WinExe</OutputType>
+        <TargetFramework>net9.0-windows</TargetFramework>
+        <UseWindowsForms>true</UseWindowsForms>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Compile Update="TextListForm.cs">
+            <SubType>Form</SubType>
+        </Compile>
+        <Compile Update="TextListForm.Designer.cs">
+            <DependentUpon>TextListForm.cs</DependentUpon>
+        </Compile>
+    </ItemGroup>
+
+</Project>

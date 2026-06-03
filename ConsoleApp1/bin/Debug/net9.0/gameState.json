@@ -1,0 +1,9 @@
+{
+  "Level": 5,
+  "Health": 80,
+  "Inventory": [
+    "Sword",
+    "Shield",
+    "Potion"
+  ]
+}
