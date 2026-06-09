@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <ItemGroup>
+        <Compile Update="BattleForm.cs">
+            <SubType>Form</SubType>
+        </Compile>
+        <Compile Update="BattleForm.Designer.cs">
+            <DependentUpon>BattleForm.cs</DependentUpon>
+        </Compile>
+        <EmbeddedResource Include="OIP.png" LogicalName="OIP.png" />
+        <EmbeddedResource Include="noFun.png" LogicalName="noFun.png" />
+        <EmbeddedResource Include="fun.png" LogicalName="fun.png" />
+    </ItemGroup>
+
+</Project>

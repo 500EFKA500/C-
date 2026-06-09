@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <ItemGroup>
+        <Compile Update="AreaForm.cs">
+            <SubType>Form</SubType>
+        </Compile>
+        <Compile Update="AreaForm.Designer.cs">
+            <DependentUpon>AreaForm.cs</DependentUpon>
+        </Compile>
+    </ItemGroup>
+
+</Project>

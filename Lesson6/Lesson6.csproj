@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <ItemGroup>
+        <Compile Update="CategoryListForm.cs">
+            <SubType>Form</SubType>
+        </Compile>
+        <Compile Update="CategoryListForm.Designer.cs">
+            <DependentUpon>CategoryListForm.cs</DependentUpon>
+        </Compile>
+    </ItemGroup>
+
+</Project>

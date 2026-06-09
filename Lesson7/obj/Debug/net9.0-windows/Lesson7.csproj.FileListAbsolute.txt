@@ -1,0 +1,17 @@
+C:\Users\user\RiderProjects\C#\Lesson7\bin\Debug\net9.0-windows\Lesson7.exe
+C:\Users\user\RiderProjects\C#\Lesson7\bin\Debug\net9.0-windows\Lesson7.deps.json
+C:\Users\user\RiderProjects\C#\Lesson7\bin\Debug\net9.0-windows\Lesson7.runtimeconfig.json
+C:\Users\user\RiderProjects\C#\Lesson7\bin\Debug\net9.0-windows\Lesson7.dll
+C:\Users\user\RiderProjects\C#\Lesson7\bin\Debug\net9.0-windows\Lesson7.pdb
+C:\Users\user\RiderProjects\C#\Lesson7\obj\Debug\net9.0-windows\Lesson7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\RiderProjects\C#\Lesson7\obj\Debug\net9.0-windows\Lesson7.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\C#\Lesson7\obj\Debug\net9.0-windows\Lesson7.AssemblyInfo.cs
+C:\Users\user\RiderProjects\C#\Lesson7\obj\Debug\net9.0-windows\Lesson7.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\C#\Lesson7\obj\Debug\net9.0-windows\Lesson7.sourcelink.json
+C:\Users\user\RiderProjects\C#\Lesson7\obj\Debug\net9.0-windows\Lesson7.dll
+C:\Users\user\RiderProjects\C#\Lesson7\obj\Debug\net9.0-windows\refint\Lesson7.dll
+C:\Users\user\RiderProjects\C#\Lesson7\obj\Debug\net9.0-windows\Lesson7.pdb
+C:\Users\user\RiderProjects\C#\Lesson7\obj\Debug\net9.0-windows\Lesson7.genruntimeconfig.cache
+C:\Users\user\RiderProjects\C#\Lesson7\obj\Debug\net9.0-windows\ref\Lesson7.dll
+C:\Users\user\RiderProjects\C#\Lesson7\obj\Debug\net9.0-windows\Lesson7.TamagotchiForm.resources
+C:\Users\user\RiderProjects\C#\Lesson7\obj\Debug\net9.0-windows\Lesson7.csproj.GenerateResource.cache

@@ -1,0 +1,15 @@
+C:\Users\user\RiderProjects\C#\Lesson8\bin\Debug\net9.0-windows\Lesson8.exe
+C:\Users\user\RiderProjects\C#\Lesson8\bin\Debug\net9.0-windows\Lesson8.deps.json
+C:\Users\user\RiderProjects\C#\Lesson8\bin\Debug\net9.0-windows\Lesson8.runtimeconfig.json
+C:\Users\user\RiderProjects\C#\Lesson8\bin\Debug\net9.0-windows\Lesson8.dll
+C:\Users\user\RiderProjects\C#\Lesson8\bin\Debug\net9.0-windows\Lesson8.pdb
+C:\Users\user\RiderProjects\C#\Lesson8\obj\Debug\net9.0-windows\Lesson8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\RiderProjects\C#\Lesson8\obj\Debug\net9.0-windows\Lesson8.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\C#\Lesson8\obj\Debug\net9.0-windows\Lesson8.AssemblyInfo.cs
+C:\Users\user\RiderProjects\C#\Lesson8\obj\Debug\net9.0-windows\Lesson8.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\C#\Lesson8\obj\Debug\net9.0-windows\Lesson8.sourcelink.json
+C:\Users\user\RiderProjects\C#\Lesson8\obj\Debug\net9.0-windows\Lesson8.dll
+C:\Users\user\RiderProjects\C#\Lesson8\obj\Debug\net9.0-windows\refint\Lesson8.dll
+C:\Users\user\RiderProjects\C#\Lesson8\obj\Debug\net9.0-windows\Lesson8.pdb
+C:\Users\user\RiderProjects\C#\Lesson8\obj\Debug\net9.0-windows\Lesson8.genruntimeconfig.cache
+C:\Users\user\RiderProjects\C#\Lesson8\obj\Debug\net9.0-windows\ref\Lesson8.dll

@@ -1,0 +1,17 @@
+C:\Users\user\RiderProjects\C#\Lesson9\obj\Debug\net9.0-windows\Lesson9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\RiderProjects\C#\Lesson9\obj\Debug\net9.0-windows\Lesson9.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\C#\Lesson9\obj\Debug\net9.0-windows\Lesson9.AssemblyInfo.cs
+C:\Users\user\RiderProjects\C#\Lesson9\obj\Debug\net9.0-windows\Lesson9.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\C#\Lesson9\obj\Debug\net9.0-windows\Lesson9.sourcelink.json
+C:\Users\user\RiderProjects\C#\Lesson9\bin\Debug\net9.0-windows\Lesson9.exe
+C:\Users\user\RiderProjects\C#\Lesson9\bin\Debug\net9.0-windows\Lesson9.deps.json
+C:\Users\user\RiderProjects\C#\Lesson9\bin\Debug\net9.0-windows\Lesson9.runtimeconfig.json
+C:\Users\user\RiderProjects\C#\Lesson9\bin\Debug\net9.0-windows\Lesson9.dll
+C:\Users\user\RiderProjects\C#\Lesson9\bin\Debug\net9.0-windows\Lesson9.pdb
+C:\Users\user\RiderProjects\C#\Lesson9\obj\Debug\net9.0-windows\Lesson9.dll
+C:\Users\user\RiderProjects\C#\Lesson9\obj\Debug\net9.0-windows\refint\Lesson9.dll
+C:\Users\user\RiderProjects\C#\Lesson9\obj\Debug\net9.0-windows\Lesson9.pdb
+C:\Users\user\RiderProjects\C#\Lesson9\obj\Debug\net9.0-windows\Lesson9.genruntimeconfig.cache
+C:\Users\user\RiderProjects\C#\Lesson9\obj\Debug\net9.0-windows\ref\Lesson9.dll
+C:\Users\user\RiderProjects\C#\Lesson9\obj\Debug\net9.0-windows\Lesson9.BattleForm.resources
+C:\Users\user\RiderProjects\C#\Lesson9\obj\Debug\net9.0-windows\Lesson9.csproj.GenerateResource.cache
