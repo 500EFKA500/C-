@@ -2,9 +2,12 @@ namespace Lesson9;
 
 public partial class BattleForm : Form
 {
+    public event EventHandler<int>? GameCompleted;
+
     private readonly Random random = new();
     private int playerPoints = 10;
     private int enemyNumber = 1;
+    private bool completionReported;
 
     public BattleForm()
     {
@@ -117,6 +120,12 @@ public partial class BattleForm : Form
             {
                 statusLabel.Text = "Победа! Вы победили двух врагов.";
                 EndGame();
+
+                if (!completionReported)
+                {
+                    completionReported = true;
+                    GameCompleted?.Invoke(this, 150);
+                }
             }
 
             return true;
@@ -161,6 +170,7 @@ public partial class BattleForm : Form
     {
         playerHealthBar.Value = 100;
         playerPoints = 10;
+        completionReported = false;
         attackRadioButton.Checked = true;
         actionButton.Enabled = true;
         restartButton.Enabled = false;

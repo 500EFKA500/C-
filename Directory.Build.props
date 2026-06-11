@@ -1,5 +1,5 @@
 <Project>
-    <PropertyGroup Condition="'$(MSBuildProjectName)' == 'Lesson4' Or '$(MSBuildProjectName)' == 'Lesson5' Or '$(MSBuildProjectName)' == 'Lesson6' Or '$(MSBuildProjectName)' == 'Lesson7' Or '$(MSBuildProjectName)' == 'Lesson8' Or '$(MSBuildProjectName)' == 'Lesson9'">
+    <PropertyGroup Condition="'$(MSBuildProjectName)' == 'Lesson4' Or '$(MSBuildProjectName)' == 'Lesson5' Or '$(MSBuildProjectName)' == 'Lesson6' Or '$(MSBuildProjectName)' == 'Lesson7' Or '$(MSBuildProjectName)' == 'Lesson8' Or '$(MSBuildProjectName)' == 'Lesson9' Or '$(MSBuildProjectName)' == 'Lesson10' Or '$(MSBuildProjectName)' == 'Lesson11'">
         <OutputType>WinExe</OutputType>
         <TargetFramework>net9.0-windows</TargetFramework>
         <UseWindowsForms>true</UseWindowsForms>

@@ -15,3 +15,15 @@ C:\Users\user\RiderProjects\C#\Lesson7\obj\Debug\net9.0-windows\Lesson7.genrunti
 C:\Users\user\RiderProjects\C#\Lesson7\obj\Debug\net9.0-windows\ref\Lesson7.dll
 C:\Users\user\RiderProjects\C#\Lesson7\obj\Debug\net9.0-windows\Lesson7.TamagotchiForm.resources
 C:\Users\user\RiderProjects\C#\Lesson7\obj\Debug\net9.0-windows\Lesson7.csproj.GenerateResource.cache
+C:\tmp\Lesson12-games-output\Lesson7.deps.json
+C:\tmp\Lesson12-games-output\Lesson7.runtimeconfig.json
+C:\tmp\Lesson12-games-output\Lesson7.dll
+C:\tmp\Lesson12-games-output\Lesson7.pdb
+C:\tmp\Lesson12-score-output\Lesson7.deps.json
+C:\tmp\Lesson12-score-output\Lesson7.runtimeconfig.json
+C:\tmp\Lesson12-score-output\Lesson7.dll
+C:\tmp\Lesson12-score-output\Lesson7.pdb
+C:\tmp\Lesson12-single-window-output\Lesson7.deps.json
+C:\tmp\Lesson12-single-window-output\Lesson7.runtimeconfig.json
+C:\tmp\Lesson12-single-window-output\Lesson7.dll
+C:\tmp\Lesson12-single-window-output\Lesson7.pdb

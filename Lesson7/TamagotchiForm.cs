@@ -2,9 +2,12 @@ namespace Lesson7;
 
 public partial class TamagotchiForm : Form
 {
+    public event EventHandler<int>? GameCompleted;
+
     private int secondsLeft = 60;
     private int score;
     private int decreaseAmount = 1;
+    private bool completionReported;
     private Image? normalImage;
     private Image? funImage;
     private Image? noFunImage;
@@ -58,6 +61,12 @@ public partial class TamagotchiForm : Form
         else if (secondsLeft == 0)
         {
             FinishGame("Победа! Питомец счастлив!");
+
+            if (!completionReported)
+            {
+                completionReported = true;
+                GameCompleted?.Invoke(this, 100);
+            }
         }
 
         UpdateLabels();
@@ -91,6 +100,7 @@ public partial class TamagotchiForm : Form
         secondsLeft = 60;
         score = 0;
         decreaseAmount = 1;
+        completionReported = false;
         statusLabel.Text = "Продержитесь 60 секунд!";
         restartButton.Enabled = false;
         SetButtonsEnabled(true);

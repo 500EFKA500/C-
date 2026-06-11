@@ -1,0 +1,15 @@
+C:\Users\user\RiderProjects\C#\Lesson11\bin\Release\net9.0-windows\Lesson11.exe
+C:\Users\user\RiderProjects\C#\Lesson11\bin\Release\net9.0-windows\Lesson11.deps.json
+C:\Users\user\RiderProjects\C#\Lesson11\bin\Release\net9.0-windows\Lesson11.runtimeconfig.json
+C:\Users\user\RiderProjects\C#\Lesson11\bin\Release\net9.0-windows\Lesson11.dll
+C:\Users\user\RiderProjects\C#\Lesson11\bin\Release\net9.0-windows\Lesson11.pdb
+C:\Users\user\RiderProjects\C#\Lesson11\obj\Release\net9.0-windows\Lesson11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\RiderProjects\C#\Lesson11\obj\Release\net9.0-windows\Lesson11.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\C#\Lesson11\obj\Release\net9.0-windows\Lesson11.AssemblyInfo.cs
+C:\Users\user\RiderProjects\C#\Lesson11\obj\Release\net9.0-windows\Lesson11.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\C#\Lesson11\obj\Release\net9.0-windows\Lesson11.sourcelink.json
+C:\Users\user\RiderProjects\C#\Lesson11\obj\Release\net9.0-windows\Lesson11.dll
+C:\Users\user\RiderProjects\C#\Lesson11\obj\Release\net9.0-windows\refint\Lesson11.dll
+C:\Users\user\RiderProjects\C#\Lesson11\obj\Release\net9.0-windows\Lesson11.pdb
+C:\Users\user\RiderProjects\C#\Lesson11\obj\Release\net9.0-windows\Lesson11.genruntimeconfig.cache
+C:\Users\user\RiderProjects\C#\Lesson11\obj\Release\net9.0-windows\ref\Lesson11.dll

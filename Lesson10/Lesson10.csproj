@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <ItemGroup>
+        <Compile Update="ListViewForm.cs">
+            <SubType>Form</SubType>
+        </Compile>
+        <Compile Update="ListViewForm.Designer.cs">
+            <DependentUpon>ListViewForm.cs</DependentUpon>
+        </Compile>
+    </ItemGroup>
+
+</Project>

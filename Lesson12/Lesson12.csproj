@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>WinExe</OutputType>
+        <TargetFramework>net9.0-windows</TargetFramework>
+        <UseWindowsForms>true</UseWindowsForms>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Compile Update="GameMenuForm.cs">
+            <SubType>Form</SubType>
+        </Compile>
+        <Compile Update="GameMenuForm.Designer.cs">
+            <DependentUpon>GameMenuForm.cs</DependentUpon>
+        </Compile>
+        <Compile Update="ClickerForm.cs">
+            <SubType>Form</SubType>
+        </Compile>
+        <Compile Update="ClickerForm.Designer.cs">
+            <DependentUpon>ClickerForm.cs</DependentUpon>
+        </Compile>
+    </ItemGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\Lesson7\Lesson7.csproj" />
+        <ProjectReference Include="..\Lesson9\Lesson9.csproj" />
+    </ItemGroup>
+
+</Project>
